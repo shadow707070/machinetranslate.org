@@ -2,9 +2,9 @@
 nav_order: 998
 parent: Languages
 layout: language
-title: Abkhaz
-description: Machine translation for Abkhaz
-code: ab
+title: Abkhas
+description: Machine translation for Abkhas
+code: qqq
 family: []
 supported_apis:
 - id: kantanmt
